@@ -1,8 +1,8 @@
 # Olifant
 
-A simple [Mastodon](https://github.com/tootsuite/mastodon) client designed for elementary OS, originally developed by [@bleakgrey](https://github.com/bleakgrey/olifant).
+A fork of Olifant to make it kind of pleasant to use on the linux phone.
 
-![Olifant Screenshot](https://raw.githubusercontent.com/cleac/olifant/master/data/screenshot.png)
+![Olifant Mobile Screenshot](https://raw.githubusercontent.com/alexmitter/olifant/master/data/olifant_fix.png)
 
 ## Building and Installation
 
