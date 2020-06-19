@@ -151,7 +151,8 @@ public class Olifant.Widgets.ImageAttachment : DrawingArea {
     		case 3:
     			return open_menu (ev.button, ev.time);
     		case 1:
-    			return Desktop.open_uri (attachment.url);
+    			//return Desktop.open_uri (attachment.url);
+    			return false;
     	}
     	return false;
     }
