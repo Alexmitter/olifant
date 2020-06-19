@@ -95,7 +95,7 @@ public class Olifant.Dialogs.MainWindow: Gtk.Window, ISavedWindow {
         overlay = new Overlay ();
         overlay.add_overlay (grid);
         overlay.add_overlay (toast);
-        overlay.set_size_request (450, 600);
+        overlay.set_size_request (360, 500);
         add (overlay);
 
         restore_state ();
