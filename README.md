@@ -37,3 +37,4 @@ If you feel like contributing, you're always welcome to help the project in many
 * Polish translation by [@m4sk1n](https://github.com/m4sk1n)
 * German translation by [@koyuawsmbrtn](https://github.com/koyuawsmbrtn)
 * Simplified Chinese translation by [@gloomy-ghost](https://github.com/gloomy-ghost)
+* Fork to make it more phone compatible by some dirty hacks [@alexmitter](https://github.com/alexmitter)
